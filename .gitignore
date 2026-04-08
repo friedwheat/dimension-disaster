@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# CIFAR-10 dataset (large binary files)
+cifar-10-python.tar.gz
+cifar-10-batches-py/
+
+# Generated output images
+*.png
